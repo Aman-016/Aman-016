@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Java Full-Stack projects using Spring Boot, JDBC, MySQL, HTML, CSS, and JavaScript, focusing on real-world applications.<br><br>👯 I’m looking to collaborate on<br>Java / Spring Boot projects, Full-Stack web apps, and beginner-friendly open-source contributions.<br><br>🤝 I’m looking for help with<br>Advanced Spring Boot, REST APIs, System Design, and improving problem-solving skills.<br><br>🌱 I’m currently learning<br>Spring Security, RESTful APIs, React basics, and Data Structures & Algorithms.<br><br>💬 Ask me about<br>Java, JDBC, MySQL, Web Development, College Projects, and Interview Preparation.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple, working code 😄
+🔭 I’m currently working on<br>💼 Interview Platform (Full-Stack Web App)
+Built using React, Node.js, MongoDB with authentication and role-based access.
+Designed to help students practice technical interviews with a modern UI..<br><br>👯 I’m looking to collaborate on<br>Java / Spring Boot projects, Full-Stack web apps, and beginner-friendly open-source contributions.<br><br>🤝 I’m looking for help with<br>Advanced Spring Boot, REST APIs, System Design, and improving problem-solving skills.<br><br>🌱 I’m currently learning<br>Spring Security, RESTful APIs, React basics, and Data Structures & Algorithms.<br><br>💬 Ask me about<br>Java, JDBC, MySQL, Web Development, College Projects, and Interview Preparation.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple, working code 😄
 
 
 ## 🌐 Socials:
