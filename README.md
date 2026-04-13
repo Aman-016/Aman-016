@@ -1,4 +1,8 @@
 # 💫 About Me:
+Motivated Computer Science student aiming to leverage strong programming and problem-solving skills to build
+scalable and efficient software solutions. Passionate about learning new technologies, contributing to team success,
+and delivering high-quality applications in real-world environments.
+
 🔭 I’m currently working on<br>💼 Interview Platform (Full-Stack Web App)
 Built using React, Node.js, MongoDB with authentication and role-based access.
 Designed to help students practice technical interviews with a modern UI..<br><br>👯 I’m looking to collaborate on<br>Java / Spring Boot projects, Full-Stack web apps, and beginner-friendly open-source contributions.<br><br>🤝 I’m looking for help with<br>Advanced Spring Boot, REST APIs, System Design, and improving problem-solving skills.<br><br>🌱 I’m currently learning<br>Spring Security, RESTful APIs, React basics, and Data Structures & Algorithms.<br><br>💬 Ask me about<br>Java, JDBC, MySQL, Web Development, College Projects, and Interview Preparation.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple, working code 😄
